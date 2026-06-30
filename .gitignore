@@ -1,0 +1,7 @@
+old/
+.venv/
+__pycache__/
+data/cache
+analysis/
+results/
+data/
