@@ -45,8 +45,7 @@ The Desikan-Killiany (`aparc`), DKT (`aparc.a2005s`), Destrieux
 `Yeo2011_17Networks_N1000`) annotations ship with FreeSurfer's `fsaverage`
 subject (`$FREESURFER_HOME/subjects/fsaverage/label/`). The Schaefer
 (`Schaefer2018_100Parcels_7Networks_order`) annotation is mapped to `fsaverage`
-and distributed separately by the [Schaefer/Yeo parcellation
-project](https://github.com/ThomasYeoLab/CBIG). Copy the `.annot` files into
+and distributed [separately](https://github.com/ThomasYeoLab/CBIG). Copy the `.annot` files into
 `data/freesurfer_annot/` and the flat patches into `data/freesurfer/`.
 
 ## Usage
