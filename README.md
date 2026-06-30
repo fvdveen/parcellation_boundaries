@@ -1,5 +1,7 @@
 # Parcellation Boundaries
 
+![DK parcellation generated using this pipeline](/assets/DK_parcellation.png)
+
 Code accompanying my Bachelor's thesis on boundary extraction and simplification
 for brain surface parcellations.
 
